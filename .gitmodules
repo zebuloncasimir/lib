@@ -1,0 +1,6 @@
+[submodule "date"]
+	path = date
+	url = https://github.com/zebuloncasimir/date.git
+[submodule "savprog"]
+	path = savprog
+	url = https://github.com/zebuloncasimir/prog.git
